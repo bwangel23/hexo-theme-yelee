@@ -245,7 +245,7 @@ mathjax: true
 
 # Socail Share | 是否开启分享
 share:
-  on: true
+  on: false
   baidu: false
   addthis: true
   addthis_pubid: "ra-57d7c1723ea6ac35"
